@@ -11,7 +11,3 @@ if perfect_result > 0
 else
   puts "#{name}, your weight is already ideal"
 end
-
-
-
-

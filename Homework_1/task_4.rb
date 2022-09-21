@@ -21,6 +21,3 @@ if discriminant.positive?
  else
  	puts 'no roots:('
  end
- 	
-
-
